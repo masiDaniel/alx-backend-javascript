@@ -1,1 +1,1 @@
-This project will handle the basics of ES6
+this is the new project
